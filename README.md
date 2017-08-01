@@ -1,6 +1,6 @@
-# vgstation [![Build Status](https://travis-ci.org/vgstation-coders/vgstation13.svg?branch=master)](https://travis-ci.org/vgstation-coders/vgstation13)
+# cann-station [![Build Status](https://github.com/neutral001/cann-station)
 
-[Website](http://ss13.moe) - [Code](https://github.com/vgstation-coders/vgstation13)
+[Website](http://ss13.moe) - [Code](https://github.com/neutral001/cann-station)
 
 [IRC](irc://irc.rizon.net/vgstation) (irc.rizon.net #vgstation), here is an embedded link to it:  [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.rizon.net/vgstation.png)](https://kiwiirc.com/client/irc.rizon.net/?nick=Newcomer|?&theme=basic#vgstation)
 
